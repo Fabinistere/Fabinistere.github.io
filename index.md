@@ -8,6 +8,6 @@
 
 <!-- Create a beautiful menu with this landscape in interaction -->
 
-## [Grandstand Gauntlet](fabinistere.github.io/Grandstand-Gauntlet/grandstand-gauntlet)
+## [Grandstand Gauntlet](https://fabinistere.github.io/grandstand-gauntlet)
 
-![InGame Screeshot PreSubmission](https://img.itch.zone/aW1hZ2UvMTkzMjU4MS8xMTM2OTgyNS5wbmc=/original/aO01KP.png "This won't be a massacre")
+[![InGame Screeshot PreSubmission](https://img.itch.zone/aW1hZ2UvMTkzMjU4MS8xMTM2OTgyNS5wbmc=/original/aO01KP.png "This won't be a massacre")](https://fabinistere.github.io/grandstand-gauntlet)
